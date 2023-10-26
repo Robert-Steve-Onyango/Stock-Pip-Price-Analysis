@@ -28,4 +28,4 @@ Further EDA on the data, including feature selection and model building.
 Collecting more data to improve the accuracy of the models.
 Applying the models to real-world trading scenarios.
 >Contact
-If you have any questions about the data or the Readme file, please contact me at [your email address].
+If you have any questions about the data or the Readme file, please contact me at robert.steve.onyango@gmail.com.
